@@ -10,6 +10,10 @@
   color: chartreuse;
   font-size: 60px;
   text-align: center;
+  width: 600px;
+  border: 15px solid yellow;
+  padding: 50px;
+  margin: 20px;
 }
 
 .third {
