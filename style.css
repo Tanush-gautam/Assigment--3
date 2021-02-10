@@ -1,0 +1,35 @@
+#first {
+  font-family: "Copperplate", serif;
+  color: orangered;
+  text-align: center;
+  font-size: 100px;
+}
+
+.second {
+  font-family: "times new roman", cursive;
+  color: chartreuse;
+  font-size: 60px;
+  text-align: center;
+}
+
+.third {
+  font-family: "courier New", monospace;
+  color: khaki;
+  font-size: 40px;
+  width: 600px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+
+.fourth {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: gray;
+}
+
