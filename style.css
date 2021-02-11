@@ -10,10 +10,13 @@
   color: chartreuse;
   font-size: 60px;
   text-align: center;
-  width: 600px;
+  width: 400px;
   border: 15px solid yellow;
   padding: 50px;
   margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .third {
@@ -25,6 +28,9 @@
   padding: 50px;
   margin: 20px;
   text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .fourth {
@@ -35,4 +41,11 @@
 
 body {
   background-color: gray;
+}
+
+.fifth {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
